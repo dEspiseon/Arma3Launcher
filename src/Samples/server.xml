@@ -52,7 +52,25 @@
        
       </Mods>
     </Profile>   
-
+  <Profiles>    
+	  <Profile>
+     <ProfileName>TEHGAM Team Tactics</ProfileName>
+     <ServerAddress IP="server5.tehgam.com" Port="2322" />
+      <Mods>
+        <ProfileModInfo>
+          <Name>@cba_a3</Name>
+        </ProfileModInfo>
+       
+        <ProfileModInfo>
+          <Name>@vts_weaponresting</Name>
+        </ProfileModInfo>
+       
+	      <ProfileModInfo>
+          <Name>@task_force_radio</Name>
+        </ProfileModInfo>
+        
+      </Mods>
+    </Profile>   
     
 
   </Profiles>
